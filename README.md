@@ -5,6 +5,10 @@ Building reusable user interfaces while experiment with different frameworks.
 
 [penpot](https://penpot.app/) will be utilised to come up with designs of the user interfaces 
 
+## Colour Swatches
+
+![designs/colour-palette.png]
+
 # Documentation
 
 [docusaurus](https://docusaurus.io/docs) will be utilised for documentation
